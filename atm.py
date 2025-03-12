@@ -29,4 +29,4 @@ while True:
     if num == "4":
         print("서비스를 종료합니다.")
         break
-
+#test
